@@ -78,9 +78,44 @@ gr[ae]y to return gray or grey depending on the different spelling
 
 ### The OR Operator
 
+- The OR operator is used to provide options between two or more stings
+- Example
+
+```
+/(cats|dogs)/ this will return either cats or dogs if it is in the given information
+
+I like cats and I also like dogs
+Returned = cats & dogs
+
+```
+
 ### Flags
 
+- Flags are used outside of the slashes to determine the scale at which you want to parse your information.
+- Example
+
+```
+//g will provide a global search
+//i will provide a Case insensitive search
+//m will provide a multi line search
+these flags can be stacked
+//ig will be a combo of global an case insensitive search
+
+
+```
+
+-Flags
+
+![alt text](/assets/images/slide-7.jpg)
+
 ### Character Escapes
+
+- The back slash is used \ to turn off the default function of a variable that you would be able to use.
+- Example
+
+```
+(/$) would escape the normal /$/ function (end of line +) and searches for the dollar sign($)
+```
 
 ## Author
 

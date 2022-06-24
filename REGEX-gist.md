@@ -29,7 +29,12 @@ We will be going over the basic components of Regex an what they are used for. R
 ### Anchors
 
 - Anchors match a position rather than a single character.
--
+
+- The ^ and $ characters are anchors that fix a match to the beginning or end of a line of text.
+  -Example
+  ```
+  /^$/
+  ```
 
 ### Quantifiers
 

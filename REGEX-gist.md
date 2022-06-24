@@ -39,4 +39,8 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Please contact me with any questions.
+
+-GitHub:https://github.com/63csmith
+
+-Email: 63csmith@gmail.com

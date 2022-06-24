@@ -31,18 +31,50 @@ We will be going over the basic components of Regex an what they are used for. R
 - Anchors match a position rather than a single character.
 
 - The ^ and $ characters are anchors that fix a match to the beginning or end of a line of text.
-  -Example
+- Example
   ```
   /^$/
   ```
 
 ### Quantifiers
 
+- Quantifiers tell how many instances of a character must be present for there to be a positive match.
+
+- Example
+
+```
+/x*/ matches x 0 or more times
+/x+/ matches x 1 or more times
+```
+
 ### Grouping Constructs
+
+- This will help us put a set group of characters into a search
+- Example
+
+```
+(the) is now saved together and will be pulled from any word containing the
+```
 
 ### Bracket Expressions
 
+- Bracket expressions help with returning a wide range of results
+- The best Example is [a-z]
+
+```
+[a-z] will return any letter in the alphabet
+[3-9] will return any number between 3 and 9
+```
+
 ### Character Classes
+
+- Character classes or character sets help match a few characters at a time
+- Example
+
+```
+[ae] can be used to select a or e out of a word
+gr[ae]y to return gray or grey depending on the different spelling
+```
 
 ### The OR Operator
 

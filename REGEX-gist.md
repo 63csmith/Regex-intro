@@ -1,6 +1,8 @@
-# Title (replace with your title)
+# REGEX INTRO
 
-Introductory paragraph (replace this with your text)
+"Regular expression is not a library nor is it a programming language. Instead, regular expression is a sequence of characters that specifies a search pattern in any given text (string). A text can consist of pretty much anything from letters to numbers, space characters to special characters.
+Introductory paragraph (replace this with your text)"
+-First search result of google
 
 ## Summary
 

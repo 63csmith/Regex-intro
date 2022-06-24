@@ -21,7 +21,15 @@ We will be going over the basic components of Regex an what they are used for. R
 
 ## Regex Components
 
+- Regex has basic syntax that starts with everything between two forward slashes /
+
+- In the image below it shows more quick symbols and what they will target.
+  ![alt text](/assets/images/regex-cheatsheet.jpg)
+
 ### Anchors
+
+- Anchors match a position rather than a single character.
+-
 
 ### Quantifiers
 

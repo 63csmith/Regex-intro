@@ -1,12 +1,12 @@
 # REGEX INTRO
 
 "Regular expression is not a library nor is it a programming language. Instead, regular expression is a sequence of characters that specifies a search pattern in any given text (string). A text can consist of pretty much anything from letters to numbers, space characters to special characters.
-Introductory paragraph (replace this with your text)"
+Introductory paragraph."
 -First search result of google
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+We will be going over the basic components of Regex an what they are used for. Regex or regular expression is used as a search tool to find and even edit returned information. Something that is great about Regex is it available in almost every programing language. For the purpose of this example I will be showing you code snippets in Vanilla Javascript.
 
 ## Table of Contents
 
